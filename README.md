@@ -6,7 +6,7 @@ As a potential new crew member, we have some tests for you to show us what a pir
 
 You need some basic knowledge about
 
-* HTML
+* HTML  
 * CSS
 * JavaScript
 
